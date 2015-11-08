@@ -4,6 +4,8 @@ I wrote this as an easy-to-access interface to make cleaner looking plot code, a
 pyplot syntax over and over. Allows for passing data in as nested dictionaries. 
 All lines are created using a single x-axis data set - essentially a setup to visualize parametric sweeps.
 
+PLEASE CLICK "RAW" VERSION TO GET READABLE FILE. FOR A STRANGE REASON, GITHUB IGNORES CARRIAGE RETURN CHARACTERS.
+
 Pre-requisites:
 python + matplotlib, numpy, scipy, latex + texlive-fonts-extra, (and maybe texlive-full)
 
