@@ -1,5 +1,8 @@
-    The purpose of sharing a code for free is to make that one small aspect of life easier for everyone else. 
-    We need not each reinvent the same wheel!
+    
+    This is non-commercial code, free to download, share, modify and redistribute in original and modified forms.
+
+    The purpose of sharing a code is to make that one small aspect of life easier for everyone else. 
+    
     
     Legal stuff below:
     
