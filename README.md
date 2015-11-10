@@ -4,7 +4,9 @@ I wrote this as an easy-to-access interface to make cleaner looking plot code, a
 pyplot syntax over and over. Allows for passing data in as nested dictionaries. 
 All lines are created using a single x-axis data set - essentially a setup to visualize parametric sweeps.
 
-PLEASE CLICK "RAW" VERSION TO GET READABLE FILE. FOR A STRANGE REASON, GITHUB IGNORES CARRIAGE RETURN CHARACTERS.
+See sample images by following links below:
+https://cloud.githubusercontent.com/assets/15716194/11058820/7b1098be-8763-11e5-91d6-53bd5d71437a.png
+https://cloud.githubusercontent.com/assets/15716194/11058821/7b109788-8763-11e5-9c2c-ceb7db39b980.png
 
 Pre-requisites:
 python + matplotlib, numpy, scipy, latex + texlive-fonts-extra, (and maybe texlive-full)
@@ -39,7 +41,3 @@ labels      : y-axis labels (list of strings) that are applied to the y-axis lab
 save_folder : path where you want to save all images. Right now uses png format. 
 
 Feel free to modify/add.
-
-https://cloud.githubusercontent.com/assets/15716194/11058820/7b1098be-8763-11e5-91d6-53bd5d71437a.png
-
-https://cloud.githubusercontent.com/assets/15716194/11058821/7b109788-8763-11e5-9c2c-ceb7db39b980.png
