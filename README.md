@@ -39,3 +39,7 @@ labels      : y-axis labels (list of strings) that are applied to the y-axis lab
 save_folder : path where you want to save all images. Right now uses png format. 
 
 Feel free to modify/add.
+
+https://cloud.githubusercontent.com/assets/15716194/11058820/7b1098be-8763-11e5-91d6-53bd5d71437a.png
+
+https://cloud.githubusercontent.com/assets/15716194/11058821/7b109788-8763-11e5-9c2c-ceb7db39b980.png
