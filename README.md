@@ -6,6 +6,7 @@ All lines are created using a single x-axis data set - essentially a setup to vi
 
 See sample images by following links below:
 https://cloud.githubusercontent.com/assets/15716194/11058820/7b1098be-8763-11e5-91d6-53bd5d71437a.png
+
 https://cloud.githubusercontent.com/assets/15716194/11058821/7b109788-8763-11e5-9c2c-ceb7db39b980.png
 
 Pre-requisites:
